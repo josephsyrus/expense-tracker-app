@@ -7,3 +7,5 @@ node_modules/
 backend/.env
 mobile/.env
 .env
+
+passwords.txt
